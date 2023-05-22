@@ -7,7 +7,7 @@ import lx
 import lxu
 from lxifc import UIValueHints, Visitor
 
-from Var import *
+from .Var import *
 
 
 class CommanderClass(lxu.command.BasicCommand):

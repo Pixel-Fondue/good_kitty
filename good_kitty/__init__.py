@@ -1,3 +1,3 @@
 # python
 
-from commander import *
+from .commander import *
